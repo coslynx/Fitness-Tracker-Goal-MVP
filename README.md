@@ -173,6 +173,7 @@ This Fitness Tracker MVP is licensed under the [GNU AGPLv3](https://choosealicen
 
 ### 🤖 AI-Generated MVP
 This MVP was entirely generated using artificial intelligence through [CosLynx.com](https://coslynx.com).
+
 No human was directly involved in the coding process of the repository: Fitness-Tracker-Goal-MVP
 
 ### 📞 Contact
